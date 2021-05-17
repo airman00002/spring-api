@@ -1,0 +1,9 @@
+server.port=1112
+
+
+spring.datasource.url = jdbc:postgresql://john.db.elephantsql.com:5432/xseehynb 
+spring.datasource.username = xseehynb
+spring.datasource.password = BtCBRyTmbFe4-PF88m-QxTmKJPeUJKp-
+
+
+spring.jpa.hibernate.ddl-auto= update
